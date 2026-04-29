@@ -13,7 +13,7 @@ for (let i = 0; i < botoes.length; i++) {
   }
 }
 
-const textos = document.querySelectorAll(".contador");
+const contadores = document.querySelectorAll(".contador");
 
 
 
